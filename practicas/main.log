@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.29)  2 SEP 2023 22:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.29)  2 SEP 2023 23:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -309,6 +309,29 @@ Package pdftex.def Info: Portada.pdf , page1 used on input line 24.
 
  <./Portada.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>]
 
+/home/david/semestre_2024/redes_computadoras/practicas/main.tex:51: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<images/instancia creada y corriendo.png, id=58, 1927.2pt x 1084.05pt>
+File: images/instancia creada y corriendo.png Graphic file (type png)
+<use images/instancia creada y corriendo.png>
+Package pdftex.def Info: images/instancia creada y corriendo.png  used on input line 53.
+(pdftex.def)             Requested size: 578.16447pt x 325.21751pt.
+
+Overfull \hbox (66.01485pt too wide) in paragraph at lines 52--56
+[] 
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -316,9 +339,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 68.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 56.
 
-[2] 
+[2]
+<images/Formulario.png, id=64, 1927.2pt x 1084.05pt>
+File: images/Formulario.png Graphic file (type png)
+<use images/Formulario.png>
+Package pdftex.def Info: images/Formulario.png  used on input line 58.
+(pdftex.def)             Requested size: 481.79883pt x 271.01184pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 60.
+
+[3 <./images/instancia creada y corriendo.png> <./images/Formulario.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 72.
+
+[4] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
 
@@ -328,22 +383,22 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package lastpage Warning: Rerun to get the references right on input line 68.
+Package lastpage Warning: Rerun to get the references right on input line 72.
 
  ) 
 Here is how much of TeX's memory you used:
- 5967 strings out of 477985
- 95614 string characters out of 5840058
- 1857388 words of memory out of 5000000
- 26113 multiletter control sequences out of 15000+600000
+ 5983 strings out of 477985
+ 96095 string characters out of 5840058
+ 1856388 words of memory out of 5000000
+ 26125 multiletter control sequences out of 15000+600000
  514103 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  69i,17n,65p,439b,422s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on main.pdf (2 pages, 347920 bytes).
+Output written on main.pdf (4 pages, 503962 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 84 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

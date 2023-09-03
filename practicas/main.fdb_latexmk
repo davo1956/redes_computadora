@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1693716208 "/home/david/semestre_2024/redes_computadoras/practicas/main.tex" "main.pdf" "main" 1693716208 2
-  "/home/david/semestre_2024/redes_computadoras/practicas/main.tex" 1693716206 2145 6f9e97428f0d85587f21aeb1d0580fce ""
+["pdflatex"] 1693718969 "/home/david/semestre_2024/redes_computadoras/practicas/main.tex" "main.pdf" "main" 1693718970 2
+  "/home/david/semestre_2024/redes_computadoras/practicas/main.tex" 1693718965 3556 a6d0d650f4326febddf9acd80c45b848 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1689853683 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1689853683 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1689853683 1288 655e228510b4c2a1abe905c368440826 ""
@@ -54,8 +54,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1693363533 327341 5c06bdcb7b77cd9b58217ed5bb7e4923 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1693363522 6768059 6aa1eb17fe30eaa9ad7b6382f3091c41 ""
   "Portada.pdf" 1693715597 333562 ea1f1e1e022d18880e6bbcab8735852b ""
-  "main.aux" 1693716208 190 b76cc14408b6250a6eb58e31ffade37b "pdflatex"
-  "main.tex" 1693716206 2145 6f9e97428f0d85587f21aeb1d0580fce ""
+  "images/Formulario.png" 1693708223 35916 c450fe14d5cfdb54ea08c2dc625f4f29 ""
+  "images/instancia creada y corriendo.png" 1693708198 152196 704798d404f9e0a591cf3a401b667b4d ""
+  "main.aux" 1693718970 190 19a65b48b193c706f47e7897e8440f15 "pdflatex"
+  "main.tex" 1693718965 3556 a6d0d650f4326febddf9acd80c45b848 ""
   (generated)
   "main.aux"
   "main.log"

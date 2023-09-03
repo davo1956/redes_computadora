@@ -387,6 +387,16 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./images/instancia creada y corriendo.png
+INPUT ./images/instancia creada y corriendo.png
+INPUT images/instancia creada y corriendo.png
+INPUT ./images/instancia creada y corriendo.png
+INPUT ./images/instancia creada y corriendo.png
+INPUT ./images/Formulario.png
+INPUT ./images/Formulario.png
+INPUT images/Formulario.png
+INPUT ./images/Formulario.png
+INPUT ./images/Formulario.png
 INPUT main.aux
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
