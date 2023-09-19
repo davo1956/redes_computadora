@@ -1,0 +1,95 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,mexico]{babel}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage[export]{adjustbox}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{fancyhdr}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\title{Plantilla Facultad de Ciencias, UNAM}
+\author{Bruno Iván Cano Velasco}
+\date{\today}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+        \begin{figure}[ht]
+            \minipage{0.76\textwidth}
+            \includegraphics[width=4cm]{images/logo_unam.png}
+            \label{EscudoUNAM}   
+            \endminipage
+
+            \minipage{0.32\textwidth}
+                \includegraphics[height = 4.9cm ,width=4cm]{images/logo_ciencias.png}
+                \label{EscudoFC}
+            \endminipage
+        \end{figure}
+
+        \begin{center}
+            \vspace{0.7cm}
+            \LARGE
+            UNIVERSIDAD NACIONAL AUTONOMA DE MÉXICO
+
+            \vspace{0.7cm}
+	        \LARGE
+	        FACULTAD DE CIENCIAS
+
+            \vspace{1.5cm}	
+	        \Large
+	        \textbf{Práctica 3: Configuración de un dominio y certificado de seguridad (HTTPS)}
+
+            \vspace{1.3cm}
+	        \normalsize	
+	        PRESENTA \\
+	        \vspace{.3cm}
+	        \large
+	        \textbf{Pérez Jacome David - 31633 \\
+            Reyes Tapia Valeria - 317350113\\
+            Sánchez Reza Neider - 317020931}
+
+
+            \vspace{1.3cm}
+	        \normalsize	
+	        PROFESOR \\
+	        \vspace{.3cm}
+	        \large
+	        \textbf{Paulo Santiago de Jesús Contreras Flores\\
+            Omar Daniel Martínez Olivares\\
+            Ismael Zinedine Patiño Maza\\
+            Oscar Ramírez Gutiérrez}
+
+            \vspace{1.3cm}
+	        \normalsize	
+	        ASIGNATURA \\
+	        \vspace{.3cm}
+	        \large
+	        \textbf{Redes de Computadoras 2024-1}
+
+            \vspace{1.3cm}
+            \Today
+
+
+        \end{center}
+
+
+
+
+
+\end{document}
