@@ -140,14 +140,108 @@ Iniciamos con el \textbf{Internet Setup y Network Setup}:\\
 
 Ahora \textbf{Basic Wireless Settings} simplemente menciono que le cambiamos el nombre a \textsf{Infinitum5678}.\\
 
+Ahora vamos a conectar el \textbf{ Smartphone2} a esta red mencionada:\\
+
+\includegraphics[width=12cm, height=8cm]{images/cel a red.png}\\
+
+Configuaramos la nube de la siguiente manera:\\
+
+\includegraphics[width=12cm, height=8cm]{images/conf de cloud.png}\\
+
+Seguimos con la \textbf{Configuración del sitio web de Google}:\\
+
+El cual vamos a configurar de la misma manera que lo hicimos para el servidor de la red de la UNAM, con la diferencia que aparecerá en el index la etiqueda de "Google".\\
+
+\includegraphics[width=12cm, height=8cm]{images/buscador de lab.png}\\
+
+Ahora empezamos configurando los servidores DNS, siguiendo los pasos de la practica anterior, para el DNS de google nos queda de la siguiente manera:\\
+
+\includegraphics[width=12cm, height=8cm]{images/dns_google.png}\\
+
+Seguimos con la configuración de \textbf{DNS Telmex-Infinitum}:\\
+
+\includegraphics[width=12cm, height=8cm]{images/DNS Telmex-Infinitum.png}\\
+
+TAmbien agregamos los siguientes registros al DNS-UNAM:
+
+\includegraphics[width=12cm, height=8cm]{images/dns unam.png}\\
+
+Y en el DNS-FCIENCIAS:\\
+
+\includegraphics[width=12cm, height=8cm]{images/DNSCIENDIAS.png}\\
+
+\textbf{Configuración de los Router UNAM, Google y Telmex:}\\
+
+Agregamos a las 3 dispositivos una interfaz de red de tipo HWIC-2T.\\
+
+\includegraphics[width=12cm, height=8cm]{images/fisico de ruters.png}\\
+
+Ahora configuramos los ruters como lo muestra la tabla del pdf de la Practica.\\
+
+Para el Router-Unam:\\
+
+\includegraphics[width=12cm, height=8cm]{images/runam confi.png}\\
+
+Para el Router-Google:\\
+
+\includegraphics[width=12cm, height=8cm]{images/ruouter googlee.png}\\
+
+Para el Router-Telmex:\\
+
+\includegraphics[width=12cm, height=8cm]{images/R-TELMEX.png}\\
+
+Ahora conectamos los cables correspondientes con las conexiones, ya sea DCE o DTE de acuerdo a la tabla.\\
+
+\includegraphics[width=12cm, height=8cm]{images/rojos.png}\\
+
+Ahora seguiremos con el ultimo paso: \textbf{Configuración de rutas dinámicas.}\\
+
+solo agregamos las direcciones Ip correspondientes a nuestros routers:\\
+
+\includegraphics[width=12cm, height=8cm]{images/ip correspondienrs.png}\\
+
+{\color{red} \subsection*{\textbf{Comprobar conexión}}}
+\vspace{1em}
+
+Para las pruebas estuve batallando demasiado con las configuraciones de los routers, en una simulación se veia que habia un problema en los routers, pero al final solo debia de configurar despues de conectar los cables de color rojo,
+con base a ello ya se logró ingresar a las distintas paginas desde los distintos dispositivos.\\
 
 
+\includegraphics[width=12cm, height=8cm]{images/prueba1siiiiiiiii.png} PC1-DGTIC\\
+
+\includegraphics[width=12cm, height=8cm]{images/prueba 2 siiiiiii.png} A-PC2\\
+
+\includegraphics[width=12cm, height=8cm]{images/prueba 3 siiii.png} Laptop1 a www.unam.mx\\
+
+\includegraphics[width=12cm, height=8cm]{images/prueba 4 siiiiiiii.png} Laptop1 a www.fciencias.unam.mx\\
+
+\includegraphics[width=12cm, height=8cm]{images/prueba 4-5 siiiiii.png} Smartphone2 a  www.google.com\\
+
+\includegraphics[width=12cm, height=8cm]{images/prueba 5 siiiiii.png} Smartphone2 a  www.unam.mx\\
+
+\textbf{ Mostrar la memoria caché de cada servidor DNS después de haber accedido a los sitios web.}
+\vspace{1em}
+
+\includegraphics[width=12cm, height=8cm]{images/cache dns google.png} Memoria cache de servidor DNS de Google\\
 
 
+\includegraphics[width=12cm, height=8cm]{images/cache dns telmex.png} Memoria cache de servidor DNS de Telmex\\
 
 
+\includegraphics[width=12cm, height=8cm]{images/cache dns ciencias.png} Memoria cache de servidor DNS de fciencias\\
 
 
+\includegraphics[width=12cm, height=8cm]{images/cache dns unam.png} Memoria cache de servidor DNS de UNAM\\
 
+
+{\color{red} \subsection*{\textbf{Preguntas}}}
+\vspace{1em}
+
+\begin{enumerate}
+  \item ¿Cuáles son diferencias entre las versiones 1 y 2 del protocolo RIP?\\
+  \textbf{RIP v2 se diseñó para superar las limitaciones de RIP v1, proporcionando mejoras en términos de compatibilidad con IPv6, seguridad, capacidad de enrutamiento y eficiencia de transmisión de información de enrutamiento.}
+  \item ¿Qué algoritmo de ruteo implementa RIP versión 2?\\
+  \textbf{RIPv2 utiliza el mismo algoritmo básico que RIPv1 (distance vector routing), las mejoras y características adicionales de RIPv2, como el soporte para subredes de longitud variable (VLSM), la autenticación y el soporte para IPv6, hacen que RIPv2 sea más flexible y robusto en comparación con su predecesor.}
+\end{enumerate} 
 
 \end{document}

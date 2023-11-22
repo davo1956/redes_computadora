@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.27)  15 NOV 2023 01:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.27)  21 NOV 2023 12:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -328,20 +328,378 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-[5 <./images/confiwireles.png>] (./Main.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+<images/cel a red.png, id=33, 1927.2pt x 1084.05pt>
+File: images/cel a red.png Graphic file (type png)
+<use images/cel a red.png>
+Package pdftex.def Info: images/cel a red.png  used on input line 145.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+<images/conf de cloud.png, id=34, 1927.2pt x 1084.05pt>
+File: images/conf de cloud.png Graphic file (type png)
+<use images/conf de cloud.png>
+Package pdftex.def Info: images/conf de cloud.png  used on input line 149.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./images/confiwireles.png> <./images/cel a red.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+<images/buscador de lab.png, id=39, 1927.2pt x 1084.05pt>
+File: images/buscador de lab.png Graphic file (type png)
+<use images/buscador de lab.png>
+Package pdftex.def Info: images/buscador de lab.png  used on input line 155.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+<images/dns_google.png, id=40, 1927.2pt x 1084.05pt>
+File: images/dns_google.png Graphic file (type png)
+<use images/dns_google.png>
+Package pdftex.def Info: images/dns_google.png  used on input line 159.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./images/conf de cloud.png> <./images/buscador de lab.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+<images/DNS Telmex-Infinitum.png, id=44, 1927.2pt x 1084.05pt>
+File: images/DNS Telmex-Infinitum.png Graphic file (type png)
+<use images/DNS Telmex-Infinitum.png>
+Package pdftex.def Info: images/DNS Telmex-Infinitum.png  used on input line 163.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+<images/dns unam.png, id=45, 1927.2pt x 1084.05pt>
+File: images/dns unam.png Graphic file (type png)
+<use images/dns unam.png>
+Package pdftex.def Info: images/dns unam.png  used on input line 167.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./images/dns_google.png> <./images/DNS Telmex-Infinitum.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+<images/DNSCIENDIAS.png, id=50, 1927.2pt x 1084.05pt>
+File: images/DNSCIENDIAS.png Graphic file (type png)
+<use images/DNSCIENDIAS.png>
+Package pdftex.def Info: images/DNSCIENDIAS.png  used on input line 171.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+<images/fisico de ruters.png, id=51, 1927.2pt x 1084.05pt>
+File: images/fisico de ruters.png Graphic file (type png)
+<use images/fisico de ruters.png>
+Package pdftex.def Info: images/fisico de ruters.png  used on input line 177.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./images/dns unam.png> <./images/DNSCIENDIAS.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+<images/runam confi.png, id=55, 1927.2pt x 1084.05pt>
+File: images/runam confi.png Graphic file (type png)
+<use images/runam confi.png>
+Package pdftex.def Info: images/runam confi.png  used on input line 183.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+<images/ruouter googlee.png, id=56, 1927.2pt x 1084.05pt>
+File: images/ruouter googlee.png Graphic file (type png)
+<use images/ruouter googlee.png>
+Package pdftex.def Info: images/ruouter googlee.png  used on input line 187.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./images/fisico de ruters.png> <./images/runam confi.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+<images/R-TELMEX.png, id=60, 1927.2pt x 1084.05pt>
+File: images/R-TELMEX.png Graphic file (type png)
+<use images/R-TELMEX.png>
+Package pdftex.def Info: images/R-TELMEX.png  used on input line 191.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+<images/rojos.png, id=61, 1927.2pt x 1084.05pt>
+File: images/rojos.png Graphic file (type png)
+<use images/rojos.png>
+Package pdftex.def Info: images/rojos.png  used on input line 195.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./images/ruouter googlee.png> <./images/R-TELMEX.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+<images/ip correspondienrs.png, id=65, 1927.2pt x 1084.05pt>
+File: images/ip correspondienrs.png Graphic file (type png)
+<use images/ip correspondienrs.png>
+Package pdftex.def Info: images/ip correspondienrs.png  used on input line 201.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+<images/prueba1siiiiiiiii.png, id=66, 1927.2pt x 1084.05pt>
+File: images/prueba1siiiiiiiii.png Graphic file (type png)
+<use images/prueba1siiiiiiiii.png>
+Package pdftex.def Info: images/prueba1siiiiiiiii.png  used on input line 210.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./images/rojos.png> <./images/ip correspondienrs.png>]
+<images/prueba 2 siiiiiii.png, id=70, 1927.2pt x 1084.05pt>
+File: images/prueba 2 siiiiiii.png Graphic file (type png)
+<use images/prueba 2 siiiiiii.png>
+Package pdftex.def Info: images/prueba 2 siiiiiii.png  used on input line 212.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+<images/prueba 3 siiii.png, id=71, 1927.2pt x 1084.05pt>
+File: images/prueba 3 siiii.png Graphic file (type png)
+<use images/prueba 3 siiii.png>
+Package pdftex.def Info: images/prueba 3 siiii.png  used on input line 214.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <./images/prueba1siiiiiiiii.png> <./images/prueba 2 siiiiiii.png>]
+<images/prueba 4 siiiiiiii.png, id=75, 1927.2pt x 1084.05pt>
+File: images/prueba 4 siiiiiiii.png Graphic file (type png)
+<use images/prueba 4 siiiiiiii.png>
+Package pdftex.def Info: images/prueba 4 siiiiiiii.png  used on input line 216.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Overfull \hbox (10.13152pt too wide) in paragraph at lines 216--217
+[][] \OT1/cmr/m/n/10 Lap-top1 a www.fciencias.unam.mx 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+<images/prueba 4-5 siiiiii.png, id=76, 1927.2pt x 1084.05pt>
+File: images/prueba 4-5 siiiiii.png Graphic file (type png)
+<use images/prueba 4-5 siiiiii.png>
+Package pdftex.def Info: images/prueba 4-5 siiiiii.png  used on input line 218.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./images/prueba 3 siiii.png> <./images/prueba 4 siiiiiiii.png>]
+<images/prueba 5 siiiiii.png, id=81, 1927.2pt x 1084.05pt>
+File: images/prueba 5 siiiiii.png Graphic file (type png)
+<use images/prueba 5 siiiiii.png>
+Package pdftex.def Info: images/prueba 5 siiiiii.png  used on input line 220.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+<images/cache dns google.png, id=82, 1927.2pt x 1084.05pt>
+File: images/cache dns google.png Graphic file (type png)
+<use images/cache dns google.png>
+Package pdftex.def Info: images/cache dns google.png  used on input line 225.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <./images/prueba 4-5 siiiiii.png> <./images/prueba 5 siiiiii.png>]
+<images/cache dns telmex.png, id=86, 1927.2pt x 1084.05pt>
+File: images/cache dns telmex.png Graphic file (type png)
+<use images/cache dns telmex.png>
+Package pdftex.def Info: images/cache dns telmex.png  used on input line 228.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+<images/cache dns ciencias.png, id=87, 1927.2pt x 1084.05pt>
+File: images/cache dns ciencias.png Graphic file (type png)
+<use images/cache dns ciencias.png>
+Package pdftex.def Info: images/cache dns ciencias.png  used on input line 231.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./images/cache dns google.png> <./images/cache dns telmex.png>]
+<images/cache dns unam.png, id=91, 1927.2pt x 1084.05pt>
+File: images/cache dns unam.png Graphic file (type png)
+<use images/cache dns unam.png>
+Package pdftex.def Info: images/cache dns unam.png  used on input line 234.
+(pdftex.def)             Requested size: 341.41139pt x 227.60759pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+[16 <./images/cache dns ciencias.png> <./images/cache dns unam.png>] (./Main.aux) ) 
 Here is how much of TeX's memory you used:
- 3928 strings out of 478287
- 66235 string characters out of 5849289
- 370498 words of memory out of 5000000
- 22120 multiletter control sequences out of 15000+600000
+ 4089 strings out of 478287
+ 70855 string characters out of 5849289
+ 370500 words of memory out of 5000000
+ 22258 multiletter control sequences out of 15000+600000
  473534 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,63p,384b,286s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,63p,425b,286s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on Main.pdf (5 pages, 3786429 bytes).
+Output written on Main.pdf (16 pages, 12870696 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 134 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
