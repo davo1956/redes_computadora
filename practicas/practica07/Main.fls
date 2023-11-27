@@ -238,9 +238,112 @@ INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT ./images/no router rip.png
+INPUT ./images/no router rip.png
+INPUT images/no router rip.png
+INPUT ./images/no router rip.png
+INPUT ./images/no router rip.png
+INPUT ./images/configuracion unam 2.png
+INPUT ./images/configuracion unam 2.png
+INPUT images/configuracion unam 2.png
+INPUT ./images/configuracion unam 2.png
+INPUT ./images/configuracion unam 2.png
+INPUT ./images/configutacion general 1.png
+INPUT ./images/configutacion general 1.png
+INPUT images/configutacion general 1.png
+INPUT ./images/configutacion general 1.png
+INPUT ./images/configutacion general 1.png
+INPUT ./images/general google.png
+INPUT ./images/general google.png
+INPUT images/general google.png
+INPUT ./images/general google.png
+INPUT ./images/general google.png
+INPUT ./images/general telmex.png
+INPUT ./images/general telmex.png
+INPUT images/general telmex.png
+INPUT ./images/general telmex.png
+INPUT ./images/general telmex.png
+INPUT ./images/redistro unam.png
+INPUT ./images/redistro unam.png
+INPUT images/redistro unam.png
+INPUT ./images/redistro unam.png
+INPUT ./images/redistro unam.png
+INPUT ./images/comandos UNAM.png
+INPUT ./images/comandos UNAM.png
+INPUT images/comandos UNAM.png
+INPUT ./images/comandos UNAM.png
+INPUT ./images/comandos UNAM.png
+INPUT ./images/comandos GOOGLE.png
+INPUT ./images/comandos GOOGLE.png
+INPUT images/comandos GOOGLE.png
+INPUT ./images/comandos GOOGLE.png
+INPUT ./images/comandos GOOGLE.png
+INPUT ./images/comandos TELMEX.png
+INPUT ./images/comandos TELMEX.png
+INPUT images/comandos TELMEX.png
+INPUT ./images/comandos TELMEX.png
+INPUT ./images/comandos TELMEX.png
+INPUT ./images/captura1.png
+INPUT ./images/captura1.png
+INPUT images/captura1.png
+INPUT ./images/captura1.png
+INPUT ./images/captura1.png
+INPUT ./images/captura2.png
+INPUT ./images/captura2.png
+INPUT images/captura2.png
+INPUT ./images/captura2.png
+INPUT ./images/captura2.png
+INPUT ./images/captura3.png
+INPUT ./images/captura3.png
+INPUT images/captura3.png
+INPUT ./images/captura3.png
+INPUT ./images/captura3.png
+INPUT ./images/captura4.png
+INPUT ./images/captura4.png
+INPUT images/captura4.png
+INPUT ./images/captura4.png
+INPUT ./images/captura4.png
+INPUT ./images/captura5.png
+INPUT ./images/captura5.png
+INPUT images/captura5.png
+INPUT ./images/captura5.png
+INPUT ./images/captura5.png
+INPUT ./images/captura6.png
+INPUT ./images/captura6.png
+INPUT images/captura6.png
+INPUT ./images/captura6.png
+INPUT ./images/captura6.png
+INPUT ./images/captura7 .png
+INPUT ./images/captura7 .png
+INPUT images/captura7 .png
+INPUT ./images/captura7 .png
+INPUT ./images/captura7 .png
+INPUT ./images/dns1.png
+INPUT ./images/dns1.png
+INPUT images/dns1.png
+INPUT ./images/dns1.png
+INPUT ./images/dns1.png
+INPUT ./images/dns2.png
+INPUT ./images/dns2.png
+INPUT images/dns2.png
+INPUT ./images/dns2.png
+INPUT ./images/dns2.png
+INPUT ./images/dns3.png
+INPUT ./images/dns3.png
+INPUT images/dns3.png
+INPUT ./images/dns3.png
+INPUT ./images/dns3.png
+INPUT ./images/dns4.png
+INPUT ./images/dns4.png
+INPUT images/dns4.png
+INPUT ./images/dns4.png
+INPUT ./images/dns4.png
 INPUT Main.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
